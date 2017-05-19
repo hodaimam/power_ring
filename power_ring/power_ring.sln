@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "power_ring", "power_ring\power_ring.vcxproj", "{00BD74BB-6E92-4B76-A843-0A31A9AA4251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BD74BB-6E92-4B76-A843-0A31A9AA4251}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00BD74BB-6E92-4B76-A843-0A31A9AA4251}.Debug|Win32.Build.0 = Debug|Win32
+		{00BD74BB-6E92-4B76-A843-0A31A9AA4251}.Release|Win32.ActiveCfg = Release|Win32
+		{00BD74BB-6E92-4B76-A843-0A31A9AA4251}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
